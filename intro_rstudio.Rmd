@@ -1,0 +1,156 @@
+---
+title: "Intro to R and RStudio"
+subtitle: "Install & Customization"
+author: "N. Paterno"
+institute: "PLU"
+output:
+  xaringan::moon_reader:
+    css: plu.css
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+# Intro to R:
+
+### Downloading
+
+```{r, echo = FALSE, out.width="80%", fig.align='center'}
+knitr::include_graphics("images/00_r_homepage.PNG")
+```
+
+---
+
+# Intro to R: 
+
+### Windows
+
+```{r, echo = FALSE, out.width="80%", fig.align='center'}
+knitr::include_graphics("images/01_r_windows_home.PNG")
+```
+
+---
+
+# Intro to R: 
+
+### Windows
+
+```{r, echo = FALSE, out.width="80%", fig.align='center'}
+knitr::include_graphics("images/02_r_windows_install.PNG")
+```
+
+---
+
+# Intro to R: 
+
+### Mac
+
+```{r, echo = FALSE, out.width="80%", fig.align='center'}
+knitr::include_graphics("images/03_r_mac.PNG")
+```
+
+---
+
+# Intro to R: 
+
+### RStudio
+
+```{r, echo = FALSE, out.width="80%", fig.align='center'}
+knitr::include_graphics("images/04_rstudio_home.PNG")
+```
+
+---
+
+# Intro to R: 
+
+### Downloading
+
+```{r, echo = FALSE, out.width="80%", fig.align='center'}
+knitr::include_graphics("images/05_rstudio_downloads.PNG")
+```
+
+---
+
+# Intro to R:
+
+### Downloading
+
+```{r, echo = FALSE, out.width="80%", fig.align='center'}
+knitr::include_graphics("images/06_rstudio_install.PNG")
+```
+
+---
+
+# Intro to R: 
+
+### Navigating RStudio
+
+```{r, echo = FALSE, out.width="80%", fig.align='center'}
+knitr::include_graphics("images/07_rstudio_default.PNG")
+```
+
+---
+
+# Intro to R:
+
+### Global Options
+
+```{r, echo = FALSE, out.width="50%", fig.align='center'}
+knitr::include_graphics("images/08_rstudio_global-options.PNG")
+```
+
+---
+
+# Intro to R:
+
+### Global Options::Code
+
+```{r, echo = FALSE, out.width="50%", fig.align='center'}
+knitr::include_graphics("images/09_rstudio_global-options_code.PNG")
+```
+
+---
+
+# Intro to R:
+
+### Global Options::Appearance 
+
+```{r, echo = FALSE, out.width="50%", fig.align='center'}
+knitr::include_graphics("images/10_rstudio_global-optoins_appearance.PNG")
+```
+
+---
+
+# Intro to R:
+
+### Global Options::Pane Layout
+
+```{r, echo = FALSE, out.width="50%", fig.align='center'}
+knitr::include_graphics("images/11_rstudio_global-options_pane-layout-default.PNG")
+```
+
+---
+
+# Intro to R:
+
+### Global Options::Pane Layout
+
+```{r, echo = FALSE, out.width="50%", fig.align='center'}
+knitr::include_graphics("images/12_rstudio_global-options_pane-layout-custom.PNG")
+```
+
+---
+
+# Intro to R:
+
+### RStudio::customized
+
+```{r, echo = FALSE, out.width="80%", fig.align='center'}
+knitr::include_graphics("images/13_rstudio_custom.PNG")
+```
