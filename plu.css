@@ -10,6 +10,10 @@ h1, h2, h3{
   text-align: left;
 }
 
+.main{
+  background-color: #f3e5f5;
+}
+
 .inverse{
   position: relative;
   justify-content: center;
