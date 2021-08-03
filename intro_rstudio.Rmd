@@ -17,6 +17,8 @@ output:
 options(htmltools.dir.version = FALSE)
 ```
 
+class: main
+
 # Intro to R:
 
 ### Downloading
@@ -26,6 +28,8 @@ knitr::include_graphics("images/00_r_homepage.PNG")
 ```
 
 ---
+
+class: main
 
 # Intro to R: 
 
@@ -37,6 +41,8 @@ knitr::include_graphics("images/01_r_windows_home.PNG")
 
 ---
 
+class: main
+
 # Intro to R: 
 
 ### Windows
@@ -46,6 +52,8 @@ knitr::include_graphics("images/02_r_windows_install.PNG")
 ```
 
 ---
+
+class: main
 
 # Intro to R: 
 
@@ -57,6 +65,8 @@ knitr::include_graphics("images/03_r_mac.PNG")
 
 ---
 
+class: main
+
 # Intro to R: 
 
 ### RStudio
@@ -66,6 +76,8 @@ knitr::include_graphics("images/04_rstudio_home.PNG")
 ```
 
 ---
+
+class: main
 
 # Intro to R: 
 
@@ -77,6 +89,8 @@ knitr::include_graphics("images/05_rstudio_downloads.PNG")
 
 ---
 
+class: main
+
 # Intro to R:
 
 ### Downloading
@@ -86,6 +100,8 @@ knitr::include_graphics("images/06_rstudio_install.PNG")
 ```
 
 ---
+
+class: main
 
 # Intro to R: 
 
@@ -97,6 +113,8 @@ knitr::include_graphics("images/07_rstudio_default.PNG")
 
 ---
 
+class: main
+
 # Intro to R:
 
 ### Global Options
@@ -106,6 +124,8 @@ knitr::include_graphics("images/08_rstudio_global-options.PNG")
 ```
 
 ---
+
+class: main
 
 # Intro to R:
 
@@ -117,6 +137,8 @@ knitr::include_graphics("images/09_rstudio_global-options_code.PNG")
 
 ---
 
+class: main
+
 # Intro to R:
 
 ### Global Options::Appearance 
@@ -126,6 +148,8 @@ knitr::include_graphics("images/10_rstudio_global-optoins_appearance.PNG")
 ```
 
 ---
+
+class: main
 
 # Intro to R:
 
@@ -137,6 +161,8 @@ knitr::include_graphics("images/11_rstudio_global-options_pane-layout-default.PN
 
 ---
 
+class: main
+
 # Intro to R:
 
 ### Global Options::Pane Layout
@@ -146,6 +172,8 @@ knitr::include_graphics("images/12_rstudio_global-options_pane-layout-custom.PNG
 ```
 
 ---
+
+class: main
 
 # Intro to R:
 
